@@ -1,6 +1,5 @@
-# Page Title
+# Alejandro's Website
 
-A short introduction for the top of your main page
-
+My name is Alejandro and I major in Computer Science 
 
 More content you want on your page
